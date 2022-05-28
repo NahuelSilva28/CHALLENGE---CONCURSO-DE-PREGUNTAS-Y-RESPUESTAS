@@ -77,35 +77,35 @@ int main()
 	
 	
 	// Preguntas y Respuestas 
-	q1.setValues("Cual no es un lenguaje de programacion? : ", "Python ",
+	q1.setValues("(Dificultad 1):\nCual no es un lenguaje de programacion? : ", "Python ",
 				 "Swift ", "Adobe ",
 				 "PHP ", 3, 10);
-	q2.setValues("Cuantos MB contiene 1 TB : ", "1 000",
+	q2.setValues("(Dificultad 2):\nCuantos MB contiene 1 TB : ", "1 000",
 				 "1 999", "1 000 000",
 				 "100 000", 3, 10);
-	q3.setValues("Cual es el nombre del creador de facebook? : ", "Elon Musk",
+	q3.setValues("(Dificultad 3):\nCual es el nombre del creador de facebook? : ", "Elon Musk",
 				 "Jack Ma", "Jeff Bezos",
 				 "Mark Zuckerberg", 4, 10);
-	q4.setValues("En que lenguaje se programo Super Mario Bros?  : ", "Java",
+	q4.setValues("(Dificultad 4):\nEn que lenguaje se programo Super Mario Bros?  : ", "Java",
 				 "Ensamblador 6502", "Python",
 				 "Kotlin", 2, 10);
-	q5.setValues("Cual es el juego mas vendido de la historia? : ", "Minecraft",
+	q5.setValues("(Dificultad 5):\nCual es el juego mas vendido de la historia? : ", "Minecraft",
 				 "Super Mario Bros", "Tetris",
 				 "Pac-Man", 1, 10);
-	q6.setValues("Que significa fps? : ", "Retardo excesivo desde que se envían datos hasta que se reciben en una telecomunicación",
+	q6.setValues("(Dificultad 6):\nQue significa fps? : ", "Retardo excesivo desde que se envían datos hasta que se reciben en una telecomunicación",
 				 "Sistema Operativo de Disco de MicroSoft", "Fotogramas por segundo",
 				 "Velocidad de subida", 3, 10);
-	q7.setValues("Para que sirve la funcion int printf? : ", "Envía datos desde el teclado para almacenarlos en la memoria",
+	q7.setValues("(Dificultad 7):\nPara que sirve la funcion int printf? : ", "Envía datos desde el teclado para almacenarlos en la memoria",
 				 "Cierra el programa", "Transporta datos desde la memoria a la pantalla",
 				 "Retorna el valor de una suma", 3, 10);
-	q8.setValues("Para que se usa <b> ... </b> en html? : ", "Underline Text",
+	q8.setValues("(Dificultad 8):\nPara que se usa <b> ... </b> en html? : ", "Underline Text",
 				 "Strong Text", "Italic Text",
 				 "Bold Text", 4, 10);
 	
-	q9.setValues("Para que se usa el comando pwd en Linux : ", "Para navegar por los archivos",
+	q9.setValues("(Dificultad 9):\nPara que se usa el comando pwd en Linux : ", "Para navegar por los archivos",
 				 "Para encontrar la ruta del directorio", "Para navegar por los archivos",
 				 "Para copiar archivos", 2, 10);
-	q10.setValues("Cual es el numero 2 (decimal) en binario? : ", "0100",
+	q10.setValues("(Dificultad 10):\nCual es el numero 2 (decimal) en binario? : ", "0100",
 				  "0000", "0001",
 				  "0010", 4, 10);
 	
